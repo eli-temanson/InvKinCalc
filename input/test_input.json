@@ -1,0 +1,17 @@
+{
+    "out_filename" : "data/test.root",
+    "input_dwba" : "input/dwba_l0.dat",
+    
+    "reaction_type" : 3,
+    "beam" : "12C",
+    "target" : "2H",
+    "ejectile" : "1n",
+    "fragment" : "13N",
+    "decay_light" : "1H",
+    "decay_heavy" : "12C",
+
+    "samples" : 100000,
+    "beam_energy" : 55,
+    "beam_energy_sigma" : 1.0,
+    "excitation_energy" : 2.35
+}
